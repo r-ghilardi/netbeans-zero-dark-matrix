@@ -25,5 +25,5 @@ Dark netbeans theme inspired by zero dark matrix theme for chrome dev tools ( ht
 
 [css]: https://raw.githubusercontent.com/r-ghilardi/netbeans-zero-dark-matrix/master/Images/css.png?raw=true "css"
 [html]: https://raw.githubusercontent.com/r-ghilardi/netbeans-zero-dark-matrix/master/Images/html.png?raw=true "html"
-[js]: https://raw.githubusercontent.com/r-ghilardi/netbeans-zero-dark-matrix/master/Images/js.png?raw=true "js"
+[js]: https://raw.githubusercontent.com/r-ghilardi/netbeans-zero-dark-matrix/master/Images/javascript.png?raw=true "js"
 [php]: https://raw.githubusercontent.com/r-ghilardi/netbeans-zero-dark-matrix/master/Images/php.png?raw=true "php"
